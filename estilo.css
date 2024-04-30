@@ -314,6 +314,16 @@ html {
     font-size: 14px;
 }
 
+.skills .skill{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    border: 2px solid #ccc;
+  }
+
+ 
 /* Estas clases se agregaran dinamicamente mediante javascript */
 .skills .skill .javascript {
     width: 0%;
