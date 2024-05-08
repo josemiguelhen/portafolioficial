@@ -600,6 +600,11 @@ html {
     bottom: 4px;
 }
 
+#imagenLuffy {
+    width: 340px; /* Ancho deseado */
+    height: 255px; /* Alto deseado */
+}
+
 /* SECCION PORTFOLIO */
 .portfolio {
     background-color: #252A2E;
@@ -799,6 +804,11 @@ html {
     color: #1CB698;
     display: inline-block;
     margin-right: 20px;
+}
+
+#imagenMapa {
+    width: 550px; /* Ancho deseado */
+    height: 260px; /* Alto deseado */
 }
 
 footer {
